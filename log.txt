@@ -1,0 +1,1 @@
+{'starting_time': 'Wed Jul 29 18:58:36 2020', 'name': 'polish_notation', 'args': ('+', '3', '4'), 'kwargs': {}, 'result': 7.0}
